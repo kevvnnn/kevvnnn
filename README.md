@@ -37,6 +37,8 @@ so enjoy me glazing myself in this no cap goofy-ahh self-written lore drop.
 - Finished several final projects for university courses:
   - Automatic group member assigner (Discrete Maths)
   - Wine quality analysis based on several factors (Linear Algebra)
+  - Mobile Legends: Bang Bang jungler pathing with multiple algorithms (AI Concepts)
+  - Football (*soccer* \*eugh*\) goalscoring and pressing analyses with passing networks (Graph Theory)
 - Solved endless [Jelly Hoshiumi](https://www.youtube.com/clip/UgkxFniKTkwzlyLx0Qo76v5K_Py-XogmsJKi) Fundamental Programming and Data Structures TA problems
 - <details>
     <summary>Being a massive Kaoruko Waguri stan!</summary>
@@ -44,8 +46,6 @@ so enjoy me glazing myself in this no cap goofy-ahh self-written lore drop.
     </details>
 
 ### **Cooking these rn while doomscrolling:** 🤞
-- Mobile Legends: Bang Bang jungler pathing with multiple algorithms
-- Football (*soccer* \*eugh*\) goalscoring and pressing analyses with passing networks
 - <details>
     <summary>See what happens to Rem in Re:ZERO</summary>
         <img src="assets/rem-re-zero-icon.png" style="width:4em">
